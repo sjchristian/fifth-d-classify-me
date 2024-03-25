@@ -1,0 +1,21 @@
+{
+    "options": {
+        "max_words": 100,
+        "max_sentences": 5,
+        "language": "fr"
+    },
+    "urls": [
+        {
+            "url": "https://www.bbc.co.uk/news/uk-wales-68546796",
+            "language": "en"
+        },
+        {
+            "url": "https://interestingengineering.com/space/nuclear-fusion-powered-electric-propulsion-drive",
+            "language": "en"
+        },
+        {
+            "url": "https://www.wired.com/story/the-feds-are-trying-to-get-plants-to-mine-metal-through-their-roots/",
+            "language": "en"
+        }        
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "options": {
+        "min_words": 500,
+        "max_words": 1000,
+        "max_sentences": 20,
+        "language": "de"
+    },
+    "urls": [
+        {
+            "url": "https://www.bbc.co.uk/news/uk-wales-68546796",
+            "language": "en"
+        },
+        {
+            "url": "https://interestingengineering.com/space/nuclear-fusion-powered-electric-propulsion-drive",
+            "language": "en"
+        },
+        {
+            "url": "https://www.lemonde.fr/economie/article/2024/03/24/sur-spotify-johan-rohr-l-artiste-aux-15-milliards-d-ecoutes_6223925_3234.html",
+            "language": "fr"
+        }
+    ]
+}

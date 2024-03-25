@@ -1,0 +1,21 @@
+{
+    "options": {
+        "max_words": 250,
+        "max_sentences": 3,
+        "language": "en"
+    },
+    "urls": [        
+        {
+            "url": "https://www.lemonde.fr/economie/article/2024/03/24/sur-spotify-johan-rohr-l-artiste-aux-15-milliards-d-ecoutes_6223925_3234.html",
+            "language": "fr"
+        },
+        {
+            "url": "https://www.zeit.de/2024/13/permafrost-alpen-schmelzen-klimawandel-forschung",
+            "language": "de"
+        },
+        {
+            "url": "https://desarrollowp.com/blog/tutoriales/combate-el-spam-en-comentarios-con-la-tecnica-honeypot/",
+            "language": "es"
+        }
+    ]
+}
