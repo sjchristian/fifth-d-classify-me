@@ -53,7 +53,7 @@ def run_single_case(case: TextClassifierSpec) -> float:
     for query in case.queries:
         request = form_request(query.query, case.classes, case.options)
         result = make_request(request)
-        predicted = result.get("result")
+        predicted = result.get("result", [])
         correct = set(predicted) == set(query.class_id)
 
         if not correct and strict_mode:
